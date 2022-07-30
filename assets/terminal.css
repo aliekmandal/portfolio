@@ -58,3 +58,17 @@ div.container
 {
     display: inline-block;
 }
+
+.lil{
+   font-size: 12px;
+   color: rgb(91, 91, 91);
+}
+
+.lilL{
+   color: gray;
+   font-size: 10px;
+}
+
+.techUsed{
+   font-size: 14px;
+}
